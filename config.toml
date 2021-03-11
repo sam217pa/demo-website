@@ -1,5 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://sam217pa.github.io/demo-website/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 
 theme="archie"
+
+publishDir="docs"

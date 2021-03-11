@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/essai/</loc>
+    <loc>https://sam217pa.github.io/demo-website/posts/essai/</loc>
     <lastmod>2021-03-11T21:16:09+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://sam217pa.github.io/demo-website/</loc>
     <lastmod>2021-03-11T21:16:09+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://sam217pa.github.io/demo-website/posts/</loc>
     <lastmod>2021-03-11T21:16:09+01:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://sam217pa.github.io/demo-website/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://sam217pa.github.io/demo-website/tags/</loc>
   </url>
 </urlset>
